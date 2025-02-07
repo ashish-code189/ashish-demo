@@ -1,4 +1,4 @@
 # ashish-demo
 This is my first Git repository
 <br>
-Author - Ashish Kushwaha
+Author - Ashish (ashCode)
